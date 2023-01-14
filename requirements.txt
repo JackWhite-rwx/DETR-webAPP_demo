@@ -1,0 +1,14 @@
+cython
+submitit
+torch>=1.5.0
+torchvision>=0.6.0
+scipy
+matplotlib
+Pillow
+gradio==3.10.0
+imutils
+numpy
+opencv-python
+scipy
+flask
+werkzeug
