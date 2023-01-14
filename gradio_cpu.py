@@ -158,9 +158,9 @@ def inference(image):
 import gradio as gr
 inputs = gr.inputs.Image(type='file', label="图像上传区域")
 
-title = "原型比测项目"
-description = "原型比测--目标检测功能."
-article = "<p style='text-align: center'>算法支持：空天地海一体化大数据实验室</p>"
+title = "object detection"
+description = "detr demo."
+article = "<p style='text-align: center'>thank detr and gradio</p>"
 
 
 examples = [
