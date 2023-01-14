@@ -8,5 +8,4 @@ python gradio_cpu.py
 
 
 thanks:
-https://github.com/facebookresearch/detr
-https://github.com/gradio-app/gradio
+https://github.com/facebookresearch/detr  and  https://github.com/gradio-app/gradio
